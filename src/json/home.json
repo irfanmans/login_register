@@ -1,0 +1,39 @@
+{
+    "home": [
+        {
+            "image": "images/feed1.jpg",
+            "name": "feed1",
+            "paragraf": "Tumbuhlah sebagai pribadi yang tangguh dan berani, siap menghadapi tantangan dan memimpin perubahan"
+        },
+        {
+            "image": "images/feed2.jpg",
+            "name": "feed2",
+            "paragraf": "Tumbuhlah sebagai pribadi yang tangguh dan berani, siap menghadapi tantangan dan memimpin perubahan"
+        },
+        {
+            "image": "images/feed3.jpg",
+            "name": "feed3",
+            "paragraf": "Tumbuhlah sebagai pribadi yang tangguh dan berani, siap menghadapi tantangan dan memimpin perubahan"
+        },
+        {
+            "image": "images/feed4.jpg",
+            "name": "feed4",
+            "paragraf": "Tumbuhlah sebagai pribadi yang tangguh dan berani, siap menghadapi tantangan dan memimpin perubahan"
+        },
+        {
+            "image": "images/feed6.jpg",
+            "name": "feed6",
+            "paragraf": "Tumbuhlah sebagai pribadi yang tangguh dan berani, siap menghadapi tantangan dan memimpin perubahan"
+        },
+        {
+            "image": "images/feed7.jpg",
+            "name": "feed7",
+            "paragraf": "Tumbuhlah sebagai pribadi yang tangguh dan berani, siap menghadapi tantangan dan memimpin perubahan"
+        },
+        {
+            "image": "images/feed8.jpg",
+            "name": "feed8",
+            "paragraf": "Tumbuhlah sebagai pribadi yang tangguh dan berani, siap menghadapi tantangan dan memimpin perubahan"
+        }
+    ]
+}
